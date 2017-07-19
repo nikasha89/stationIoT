@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="stationIoT/stationIoT.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="stationIoT/MainWindow.cs">
+    <Files>
+      <File FileName="stationIoT/Program.cs" Line="1" Column="1" />
+      <File FileName="stationIoT/MainWindow.cs" Line="88" Column="5" />
+      <File FileName="Demo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

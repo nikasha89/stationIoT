@@ -1,0 +1,15 @@
+/home/nikasha/MonoDevelop Projects/stationIoT/stationIoT/stationIoT/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nikasha/MonoDevelop Projects/stationIoT/stationIoT/stationIoT/bin/Debug/stationIoT.exe.mdb
+/home/nikasha/MonoDevelop Projects/stationIoT/stationIoT/stationIoT/bin/Debug/stationIoT.exe
+/home/nikasha/MonoDevelop Projects/stationIoT/stationIoT/stationIoT/obj/x86/Debug/stationIoT.exe
+/home/nikasha/MonoDevelop Projects/stationIoT/stationIoT/stationIoT/obj/x86/Debug/stationIoT.exe.mdb
+/home/nikasha/MonoDevelop Projects/stationIoT_Definitivo/stationIoT/stationIoT/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nikasha/MonoDevelop Projects/stationIoT_Definitivo/stationIoT/stationIoT/bin/Debug/stationIoT.exe.mdb
+/home/nikasha/MonoDevelop Projects/stationIoT_Definitivo/stationIoT/stationIoT/bin/Debug/stationIoT.exe
+/home/nikasha/MonoDevelop Projects/stationIoT_Definitivo/stationIoT/stationIoT/obj/x86/Debug/stationIoT.exe
+/home/nikasha/MonoDevelop Projects/stationIoT_Definitivo/stationIoT/stationIoT/obj/x86/Debug/stationIoT.exe.mdb
+/home/nikasha/Descargas/stationIoT_Definitivo/stationIoT/stationIoT/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nikasha/Descargas/stationIoT_Definitivo/stationIoT/stationIoT/bin/Debug/stationIoT.exe.mdb
+/home/nikasha/Descargas/stationIoT_Definitivo/stationIoT/stationIoT/bin/Debug/stationIoT.exe
+/home/nikasha/Descargas/stationIoT_Definitivo/stationIoT/stationIoT/obj/x86/Debug/stationIoT.exe
+/home/nikasha/Descargas/stationIoT_Definitivo/stationIoT/stationIoT/obj/x86/Debug/stationIoT.exe.mdb

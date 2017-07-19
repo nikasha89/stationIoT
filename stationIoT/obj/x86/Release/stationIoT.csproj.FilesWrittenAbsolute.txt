@@ -1,0 +1,5 @@
+/home/nikasha/MonoDevelop Projects/stationIoT_Definitivo/stationIoT/stationIoT/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nikasha/MonoDevelop Projects/stationIoT_Definitivo/stationIoT/stationIoT/bin/Release/stationIoT.exe.mdb
+/home/nikasha/MonoDevelop Projects/stationIoT_Definitivo/stationIoT/stationIoT/bin/Release/stationIoT.exe
+/home/nikasha/MonoDevelop Projects/stationIoT_Definitivo/stationIoT/stationIoT/obj/x86/Release/stationIoT.exe
+/home/nikasha/MonoDevelop Projects/stationIoT_Definitivo/stationIoT/stationIoT/obj/x86/Release/stationIoT.exe.mdb
